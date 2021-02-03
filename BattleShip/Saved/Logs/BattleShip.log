@@ -987,3 +987,1458 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.03-03.56.35:894][731]SourceControl:  create mode 100644 BattleShip/Content/Game/Textures/sail_edgesA.uasset
 [2021.02.03-03.56.35:894][731]SourceControl:  create mode 100644 BattleShip/Content/Game/Textures/sail_edgesB.uasset
 [2021.02.03-03.56.35:904][731]SourceControl: Commited [main 856b892] Added Ships.
+[2021.02.03-04.06.24:194][874]LogStaticMesh: Building static mesh Rowboat...
+[2021.02.03-04.06.25:186][874]LogStaticMesh: Built static mesh [0.99s] /Game/Game/Meshes/Rowboat.Rowboat
+[2021.02.03-04.06.25:269][874]LogActorFactory: Actor Factory created Rowboat
+[2021.02.03-04.06.29:870][423]LogActorFactory: Actor Factory created Rowboat
+[2021.02.03-04.08.29:825][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat)
+[2021.02.03-04.08.56:664][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat2)
+[2021.02.03-04.09.46:830][702]LogStaticMesh: Building static mesh SailingShip...
+[2021.02.03-04.10.02:607][702]LogStaticMesh: Built static mesh [15.78s] /Game/Game/Meshes/SailingShip.SailingShip
+[2021.02.03-04.10.02:868][702]LogActorFactory: Actor Factory created SailingShip
+[2021.02.03-04.10.06:009][  6]LogActorFactory: Actor Factory created SailingShip
+[2021.02.03-04.10.11:927][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.02.03-04.10.12:003][628]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Battleship_MainGameMap_Auto10B4101B340DD3CE1FF5EEB81B047119D.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Autosaves/Game/Game/Level/Battleship_MainGameMap_Auto1.umap'
+[2021.02.03-04.10.12:012][628]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Level/Battleship_MainGameMap' took 0.089
+[2021.02.03-04.10.12:012][628]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2021.02.03-04.11.49:501][482]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.03-04.14.15:627][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip2)
+[2021.02.03-04.14.28:796][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip)
+[2021.02.03-04.14.32:918][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.14.50:581][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip3)
+[2021.02.03-04.15.00:074][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip2)
+[2021.02.03-04.15.08:246][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip)
+[2021.02.03-04.15.21:954][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat3)
+[2021.02.03-04.15.32:793][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat2)
+[2021.02.03-04.15.37:465][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat)
+[2021.02.03-04.16.19:312][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat2)
+[2021.02.03-04.16.29:167][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat3)
+[2021.02.03-04.16.38:886][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip)
+[2021.02.03-04.16.46:909][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip2)
+[2021.02.03-04.16.51:813][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip3)
+[2021.02.03-04.16.58:597][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.17.23:932][848]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.17.23:942][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.17.23:942][848]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:17:23 PM)
+[2021.02.03-04.17.23:944][848]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.03-04.17.23:945][848]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.03-04.17.23:945][848]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.17.23:976][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031257s)
+[2021.02.03-04.17.23:977][848]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.17.23:978][848]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2021.02.03-04.17.23:978][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.032849s)
+[2021.02.03-04.17.23:983][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.02.03-04.17.23:984][848]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.03-04.17.23:984][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.17.23:984][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.17.23:984][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.17.23:984][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.17.23:984][848]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.17.23:984][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.17.23:984][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.17.23:984][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.17.23:985][848]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.17.23:985][848]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.17.23:990][848]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.17.23:990][848]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.17.24:001][848]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.17.24:001][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.17.24:001][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.17.24:001][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.17.24:001][848]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.17.24:001][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.17.24:001][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.17.24:015][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.17.24:015][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.17.24:015][848]LogInit: FAudioDevice initialized.
+[2021.02.03-04.17.24:015][848]LogAudio: Display: Audio Device (ID: 2) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.17.24:023][848]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.17.24:035][848]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.17.24
+[2021.02.03-04.17.24:036][848]LogWorld: Bringing up level for play took: 0.011638
+[2021.02.03-04.17.24:036][848]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.02.03-04.17.24:038][848]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.03-04.17.24:041][848]PIE: Server logged in
+[2021.02.03-04.17.24:043][848]PIE: Play in editor total start time 0.102 seconds.
+[2021.02.03-04.17.47:329][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.17.47:329][622]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.17.47:330][622]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.17.47:331][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.17.47:337][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.17.47:353][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.17.47:357][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-04.17.47:358][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.17.47:359][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.17.47:374][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.17.47:377][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.03-04.17.47:414][623]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.02.03-04.17.50:374][971]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.17.50:383][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.17.50:384][971]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:17:50 PM)
+[2021.02.03-04.17.50:384][971]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.17.50:414][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030375s)
+[2021.02.03-04.17.50:415][971]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.17.50:415][971]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2021.02.03-04.17.50:415][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.031698s)
+[2021.02.03-04.17.50:420][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.03-04.17.50:421][971]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.02.03-04.17.50:421][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.17.50:421][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.17.50:421][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.17.50:421][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.17.50:421][971]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.17.50:421][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.17.50:421][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.17.50:421][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.17.50:421][971]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.17.50:421][971]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.17.50:425][971]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.17.50:425][971]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.17.50:435][971]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.17.50:435][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.17.50:435][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.17.50:435][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.17.50:436][971]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.17.50:436][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.17.50:436][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.17.50:449][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.17.50:449][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.17.50:449][971]LogInit: FAudioDevice initialized.
+[2021.02.03-04.17.50:449][971]LogAudio: Display: Audio Device (ID: 3) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.17.50:458][971]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.17.50:470][971]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.17.50
+[2021.02.03-04.17.50:470][971]LogWorld: Bringing up level for play took: 0.011742
+[2021.02.03-04.17.50:470][971]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.02.03-04.17.50:475][971]PIE: Server logged in
+[2021.02.03-04.17.50:476][971]PIE: Play in editor total start time 0.093 seconds.
+[2021.02.03-04.17.57:449][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.17.57:449][799]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.17.57:449][799]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.17.57:451][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.17.57:456][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.17.57:471][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.17.57:476][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.17.57:476][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.17.57:477][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.17.57:494][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.02.03-04.17.57:529][800]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.02.03-04.18.14:574][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip3)
+[2021.02.03-04.18.58:252][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.19.02:548][306]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.19.02:558][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.19.02:558][306]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:19:02 PM)
+[2021.02.03-04.19.02:558][306]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.19.02:590][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031259s)
+[2021.02.03-04.19.02:591][306]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.19.02:591][306]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2021.02.03-04.19.02:591][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.032699s)
+[2021.02.03-04.19.02:596][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.02.03-04.19.02:597][306]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.02.03-04.19.02:597][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.19.02:597][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.19.02:597][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.19.02:597][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.19.02:597][306]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.19.02:597][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.19.02:597][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.19.02:597][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.19.02:598][306]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.19.02:598][306]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.19.02:601][306]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.19.02:601][306]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.19.02:611][306]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.19.02:611][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.19.02:611][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.19.02:611][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.19.02:612][306]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.19.02:612][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.19.02:612][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.19.02:626][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.19.02:626][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.19.02:626][306]LogInit: FAudioDevice initialized.
+[2021.02.03-04.19.02:626][306]LogAudio: Display: Audio Device (ID: 4) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.19.02:637][306]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.19.02:649][306]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.19.02
+[2021.02.03-04.19.02:649][306]LogWorld: Bringing up level for play took: 0.011813
+[2021.02.03-04.19.02:649][306]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.02.03-04.19.02:654][306]PIE: Server logged in
+[2021.02.03-04.19.02:655][306]PIE: Play in editor total start time 0.097 seconds.
+[2021.02.03-04.19.06:272][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.19.06:272][728]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.19.06:272][728]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.19.06:274][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.19.06:281][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.19.06:296][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.19.06:301][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.19.06:302][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.19.06:303][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.19.06:319][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.02.03-04.19.06:357][729]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.02.03-04.19.10:537][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip2)
+[2021.02.03-04.19.38:789][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip)
+[2021.02.03-04.20.01:913][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip)
+[2021.02.03-04.20.03:075][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip)
+[2021.02.03-04.20.06:440][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat3)
+[2021.02.03-04.20.23:783][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat3)
+[2021.02.03-04.20.29:621][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat2)
+[2021.02.03-04.20.51:984][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat)
+[2021.02.03-04.21.09:928][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rowboat)
+[2021.02.03-04.21.18:924][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.21.23:528][  9]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.21.23:538][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.21.23:538][  9]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:21:23 PM)
+[2021.02.03-04.21.23:538][  9]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.21.23:571][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033521s)
+[2021.02.03-04.21.23:572][  9]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.21.23:572][  9]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2021.02.03-04.21.23:572][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.034919s)
+[2021.02.03-04.21.23:577][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.03-04.21.23:578][  9]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.02.03-04.21.23:578][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.21.23:578][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.21.23:578][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.21.23:578][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.21.23:579][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.21.23:579][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.21.23:579][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.21.23:579][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.21.23:579][  9]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.21.23:579][  9]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.21.23:583][  9]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.21.23:583][  9]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.21.23:593][  9]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.21.23:593][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.21.23:593][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.21.23:594][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.21.23:594][  9]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.21.23:594][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.21.23:594][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.21.23:607][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.21.23:607][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.21.23:607][  9]LogInit: FAudioDevice initialized.
+[2021.02.03-04.21.23:607][  9]LogAudio: Display: Audio Device (ID: 5) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.21.23:614][  9]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.21.23:626][  9]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.21.23
+[2021.02.03-04.21.23:626][  9]LogWorld: Bringing up level for play took: 0.011595
+[2021.02.03-04.21.23:626][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.02.03-04.21.23:631][  9]PIE: Server logged in
+[2021.02.03-04.21.23:632][  9]PIE: Play in editor total start time 0.096 seconds.
+[2021.02.03-04.21.50:767][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.21.50:767][258]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.21.50:767][258]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.21.50:769][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.21.50:778][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.21.50:794][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.21.50:798][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.21.50:799][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.21.50:800][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.21.50:817][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.02.03-04.21.50:866][259]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.02.03-04.26.50:007][453]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CubeMesh)
+[2021.02.03-04.28.28:551][487]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.28.28:561][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.28.28:562][487]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:28:28 PM)
+[2021.02.03-04.28.28:562][487]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.28.28:609][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046945s)
+[2021.02.03-04.28.28:610][487]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.28.28:610][487]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2021.02.03-04.28.28:610][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.048368s)
+[2021.02.03-04.28.28:633][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.02.03-04.28.28:634][487]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.02.03-04.28.28:634][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.28.28:634][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.28.28:634][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.28.28:634][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.28.28:634][487]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.28.28:634][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.28.28:634][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.28.28:634][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.28.28:634][487]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.28.28:634][487]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.28.28:638][487]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.28.28:638][487]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.28.28:649][487]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.28.28:649][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.28.28:649][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.28.28:649][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.28.28:649][487]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.28.28:649][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.28.28:649][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.28.28:663][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.28.28:663][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.28.28:663][487]LogInit: FAudioDevice initialized.
+[2021.02.03-04.28.28:663][487]LogAudio: Display: Audio Device (ID: 6) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.28.28:671][487]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.28.28:684][487]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.28.28
+[2021.02.03-04.28.28:686][487]LogWorld: Bringing up level for play took: 0.013918
+[2021.02.03-04.28.28:686][487]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.02.03-04.28.28:691][487]PIE: Server logged in
+[2021.02.03-04.28.28:692][487]PIE: Play in editor total start time 0.131 seconds.
+[2021.02.03-04.28.33:720][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.28.33:720][ 74]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.28.33:720][ 74]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.28.33:723][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.28.33:729][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.28.33:738][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.28.33:744][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.28.33:744][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.28.33:745][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.28.33:766][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.02.03-04.28.33:805][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.02.03-04.28.37:192][471]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CubeMesh)
+[2021.02.03-04.28.41:353][891]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2021.02.03-04.30.54:660][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.30.58:676][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.30.58:688][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.30.58:688][ 55]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:30:58 PM)
+[2021.02.03-04.30.58:688][ 55]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.30.58:747][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059122s)
+[2021.02.03-04.30.58:748][ 55]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.30.58:749][ 55]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2021.02.03-04.30.58:749][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.060703s)
+[2021.02.03-04.30.58:763][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.02.03-04.30.58:764][ 55]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.02.03-04.30.58:764][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.30.58:764][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.30.58:764][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.30.58:764][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.30.58:764][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.30.58:764][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.30.58:764][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.30.58:764][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.30.58:765][ 55]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.30.58:765][ 55]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.30.58:769][ 55]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.30.58:769][ 55]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.30.58:780][ 55]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.30.58:780][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.30.58:780][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.30.58:780][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.30.58:781][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.30.58:781][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.30.58:781][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.30.58:794][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.30.58:794][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.30.58:794][ 55]LogInit: FAudioDevice initialized.
+[2021.02.03-04.30.58:794][ 55]LogAudio: Display: Audio Device (ID: 7) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.30.58:805][ 55]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.30.58:819][ 55]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.30.58
+[2021.02.03-04.30.58:824][ 55]LogWorld: Bringing up level for play took: 0.018100
+[2021.02.03-04.30.58:824][ 55]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.02.03-04.30.58:830][ 55]PIE: Server logged in
+[2021.02.03-04.30.58:830][ 55]PIE: Play in editor total start time 0.143 seconds.
+[2021.02.03-04.31.21:195][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.31.21:195][106]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.31.21:196][106]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.31.21:200][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.31.21:211][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.31.21:227][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.31.21:235][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-04.31.21:239][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.31.21:240][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.31.21:255][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.31.21:260][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.02.03-04.31.21:329][107]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.02.03-04.33.22:469][937]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock13)
+[2021.02.03-04.33.38:642][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.33.47:680][430]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock23)
+[2021.02.03-04.33.50:147][693]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock33)
+[2021.02.03-04.33.52:123][902]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock43)
+[2021.02.03-04.33.53:554][ 52]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock53)
+[2021.02.03-04.34.19:160][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.34.22:578][800]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.34.22:591][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.34.22:591][800]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:34:22 PM)
+[2021.02.03-04.34.22:591][800]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.34.22:652][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060795s)
+[2021.02.03-04.34.22:653][800]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.34.22:654][800]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2021.02.03-04.34.22:654][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.062424s)
+[2021.02.03-04.34.22:664][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.02.03-04.34.22:665][800]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.02.03-04.34.22:665][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.34.22:666][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.34.22:666][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.34.22:666][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.34.22:666][800]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.34.22:666][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.34.22:666][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.34.22:666][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.34.22:666][800]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.34.22:666][800]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.34.22:671][800]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.34.22:671][800]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.34.22:681][800]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.34.22:681][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.34.22:681][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.34.22:681][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.34.22:682][800]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.34.22:682][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.34.22:682][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.34.22:695][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.34.22:695][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.34.22:695][800]LogInit: FAudioDevice initialized.
+[2021.02.03-04.34.22:695][800]LogAudio: Display: Audio Device (ID: 8) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.34.22:704][800]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.34.22:717][800]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.34.22
+[2021.02.03-04.34.22:721][800]LogWorld: Bringing up level for play took: 0.017053
+[2021.02.03-04.34.22:721][800]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.02.03-04.34.22:727][800]PIE: Server logged in
+[2021.02.03-04.34.22:728][800]PIE: Play in editor total start time 0.137 seconds.
+[2021.02.03-04.35.26:273][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.35.26:273][962]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.35.26:274][962]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.35.26:278][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.35.26:285][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.35.26:301][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.35.26:311][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.35.26:315][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.35.26:316][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.35.26:336][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.03-04.35.26:374][963]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.02.03-04.36.17:149][744]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock64)
+[2021.02.03-04.36.20:341][ 53]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock68)
+[2021.02.03-04.36.38:696][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.36.50:902][875]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock37)
+[2021.02.03-04.36.52:618][ 52]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock27)
+[2021.02.03-04.36.54:202][216]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock17)
+[2021.02.03-04.36.55:011][297]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock7)
+[2021.02.03-04.37.15:159][157]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock40)
+[2021.02.03-04.37.16:621][300]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock30)
+[2021.02.03-04.37.31:715][648]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock88)
+[2021.02.03-04.37.34:290][916]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock90)
+[2021.02.03-04.37.53:257][631]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire53)
+[2021.02.03-04.37.55:351][810]LogEditorViewport: Clicking on Actor (LMB): BattleshipBlock_C (PuzzleBlock83)
+[2021.02.03-04.38.11:320][325]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.38.11:332][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.38.11:332][325]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:38:11 PM)
+[2021.02.03-04.38.11:332][325]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.38.11:390][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057915s)
+[2021.02.03-04.38.11:391][325]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.38.11:392][325]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2021.02.03-04.38.11:392][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.059452s)
+[2021.02.03-04.38.11:403][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.02.03-04.38.11:404][325]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.02.03-04.38.11:404][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.38.11:404][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.38.11:404][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.38.11:404][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.38.11:404][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.38.11:404][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.38.11:404][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.38.11:404][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.38.11:405][325]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.38.11:405][325]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.38.11:409][325]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.38.11:409][325]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.38.11:420][325]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.38.11:420][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.38.11:420][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.38.11:420][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.38.11:420][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.38.11:420][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.38.11:420][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.38.11:433][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.38.11:433][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.38.11:433][325]LogInit: FAudioDevice initialized.
+[2021.02.03-04.38.11:433][325]LogAudio: Display: Audio Device (ID: 9) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.38.11:443][325]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.38.11:457][325]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.38.11
+[2021.02.03-04.38.11:461][325]LogWorld: Bringing up level for play took: 0.017498
+[2021.02.03-04.38.11:461][325]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.02.03-04.38.11:467][325]PIE: Server logged in
+[2021.02.03-04.38.11:468][325]PIE: Play in editor total start time 0.137 seconds.
+[2021.02.03-04.39.08:630][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.39.08:630][839]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.39.08:631][839]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.39.08:635][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.39.08:646][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.39.08:656][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.39.08:669][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.39.08:672][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.39.08:673][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.39.08:692][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.03-04.39.08:737][840]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.02.03-04.39.17:493][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.39.18:815][831]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (BattleshipLabel)
+[2021.02.03-04.41.07:758][216]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A2)
+[2021.02.03-04.41.13:149][695]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A3)
+[2021.02.03-04.41.18:483][182]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A4)
+[2021.02.03-04.41.22:744][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.41.35:651][846]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A9)
+[2021.02.03-04.41.43:198][537]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A8)
+[2021.02.03-04.41.48:826][ 59]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A7)
+[2021.02.03-04.41.52:820][413]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A6)
+[2021.02.03-04.41.57:194][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.41.59:200][987]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A5)
+[2021.02.03-04.42.03:760][355]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A4)
+[2021.02.03-04.42.07:987][722]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A3)
+[2021.02.03-04.42.12:070][ 87]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A2)
+[2021.02.03-04.42.17:250][529]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A)
+[2021.02.03-04.42.25:268][241]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A10)
+[2021.02.03-04.43.04:868][572]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A11)
+[2021.02.03-04.43.09:780][ 46]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A12)
+[2021.02.03-04.43.13:141][338]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A13)
+[2021.02.03-04.43.16:763][664]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A14)
+[2021.02.03-04.43.20:818][ 38]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A15)
+[2021.02.03-04.43.24:295][365]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A16)
+[2021.02.03-04.43.27:523][663]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A17)
+[2021.02.03-04.43.31:184][984]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A18)
+[2021.02.03-04.43.34:305][249]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A19)
+[2021.02.03-04.43.37:396][510]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (A20)
+[2021.02.03-04.43.41:668][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.45.17:307][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.45.19:843][406]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.45.19:856][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.45.19:856][406]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:45:19 PM)
+[2021.02.03-04.45.19:856][406]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.45.19:918][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061145s)
+[2021.02.03-04.45.19:919][406]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.45.19:919][406]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2021.02.03-04.45.19:919][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.062825s)
+[2021.02.03-04.45.19:932][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.02.03-04.45.19:933][406]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.02.03-04.45.19:933][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.45.19:933][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.45.19:933][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.45.19:933][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.45.19:933][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.45.19:933][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.45.19:933][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.45.19:933][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.45.19:934][406]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.45.19:934][406]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.45.19:936][406]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.45.19:937][406]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.45.19:947][406]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.45.19:947][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.45.19:947][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.45.19:947][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.45.19:947][406]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.45.19:947][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.45.19:948][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.45.19:961][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.45.19:961][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.45.19:961][406]LogInit: FAudioDevice initialized.
+[2021.02.03-04.45.19:961][406]LogAudio: Display: Audio Device (ID: 10) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.45.19:969][406]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.45.19:983][406]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.45.19
+[2021.02.03-04.45.19:988][406]LogWorld: Bringing up level for play took: 0.018129
+[2021.02.03-04.45.19:988][406]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.02.03-04.45.19:994][406]PIE: Server logged in
+[2021.02.03-04.45.19:995][406]PIE: Play in editor total start time 0.14 seconds.
+[2021.02.03-04.45.28:162][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.45.28:162][314]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.45.28:163][314]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.45.28:167][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.45.28:174][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.45.28:189][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.45.28:205][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-04.45.28:205][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.45.28:206][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.45.28:221][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.45.28:225][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.03-04.45.28:267][315]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.02.03-04.45.36:515][903]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.45.36:527][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.45.36:527][903]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:45:36 PM)
+[2021.02.03-04.45.36:527][903]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.45.36:588][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060006s)
+[2021.02.03-04.45.36:589][903]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.45.36:589][903]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2021.02.03-04.45.36:589][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.061881s)
+[2021.02.03-04.45.36:601][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.02.03-04.45.36:603][903]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.02.03-04.45.36:603][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.45.36:603][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.45.36:603][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.45.36:603][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.45.36:603][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.45.36:603][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.45.36:603][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.45.36:603][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.45.36:603][903]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.45.36:603][903]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.45.36:607][903]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.45.36:607][903]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.45.36:617][903]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.45.36:617][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.45.36:617][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.45.36:617][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.45.36:617][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.45.36:617][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.45.36:617][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.45.36:631][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.45.36:631][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.45.36:631][903]LogInit: FAudioDevice initialized.
+[2021.02.03-04.45.36:631][903]LogAudio: Display: Audio Device (ID: 11) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.45.36:642][903]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.45.36:656][903]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.45.36
+[2021.02.03-04.45.36:659][903]LogWorld: Bringing up level for play took: 0.017073
+[2021.02.03-04.45.36:660][903]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.02.03-04.45.36:665][903]PIE: Server logged in
+[2021.02.03-04.45.36:666][903]PIE: Play in editor total start time 0.139 seconds.
+[2021.02.03-04.45.44:032][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.45.44:032][713]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.45.44:033][713]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.45.44:038][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.45.44:045][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.45.44:055][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.45.44:067][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.45.44:071][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.45.44:072][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.45.44:091][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.03-04.45.44:124][714]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.02.03-04.46.02:008][791]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-04.46.20:572][138]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.46.20:585][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.46.20:585][138]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:46:20 PM)
+[2021.02.03-04.46.20:585][138]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.46.20:644][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059382s)
+[2021.02.03-04.46.20:645][138]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.46.20:645][138]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2021.02.03-04.46.20:646][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.060831s)
+[2021.02.03-04.46.20:658][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.02.03-04.46.20:659][138]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.02.03-04.46.20:659][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.46.20:659][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.46.20:659][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.46.20:659][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.46.20:659][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.46.20:659][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.46.20:659][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.46.20:659][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.46.20:660][138]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.46.20:660][138]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.46.20:661][138]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.46.20:661][138]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.46.20:673][138]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.46.20:674][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.46.20:674][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.46.20:674][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.46.20:674][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.46.20:674][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.46.20:674][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.46.20:687][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.46.20:687][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.46.20:687][138]LogInit: FAudioDevice initialized.
+[2021.02.03-04.46.20:687][138]LogAudio: Display: Audio Device (ID: 12) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.46.20:698][138]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.46.20:711][138]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.46.20
+[2021.02.03-04.46.20:716][138]LogWorld: Bringing up level for play took: 0.017535
+[2021.02.03-04.46.20:716][138]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.02.03-04.46.20:721][138]PIE: Server logged in
+[2021.02.03-04.46.20:722][138]PIE: Play in editor total start time 0.138 seconds.
+[2021.02.03-04.46.31:544][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.46.31:544][401]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.46.31:545][401]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.46.31:550][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.46.31:558][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.46.31:568][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.46.31:580][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.46.31:584][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.46.31:585][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.46.31:605][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.02.03-04.46.31:637][402]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.02.03-04.46.35:412][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.02.03-04.46.39:403][687]LogSlate: Window 'Save Content' being destroyed
+[2021.02.03-04.46.39:512][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.03-04.46.39:696][687]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Battleship_MainGameMap39C841E64F1850EEE9C0E3AAAC815161.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap.umap'
+[2021.02.03-04.46.39:746][687]LogFileHelpers: Saving map 'Battleship_MainGameMap' took 0.243
+[2021.02.03-04.46.39:757][687]AssetCheck: New page: Asset Save: Battleship_MainGameMap
+[2021.02.03-04.46.39:757][687]LogContentValidation: Display: Validating World /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap
+[2021.02.03-04.49.11:570][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.49.14:116][369]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.49.14:129][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.49.14:129][369]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:49:14 PM)
+[2021.02.03-04.49.14:129][369]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.49.14:189][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059907s)
+[2021.02.03-04.49.14:190][369]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.49.14:191][369]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2021.02.03-04.49.14:191][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.061459s)
+[2021.02.03-04.49.14:197][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.02.03-04.49.14:201][369]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.02.03-04.49.14:201][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.49.14:201][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.49.14:201][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.49.14:201][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.49.14:201][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.49.14:201][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.49.14:201][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.49.14:201][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.49.14:202][369]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.49.14:202][369]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.49.14:206][369]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.49.14:206][369]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.49.14:216][369]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.49.14:216][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.49.14:216][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.49.14:216][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.49.14:217][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.49.14:217][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.49.14:217][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.49.14:230][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.49.14:230][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.49.14:230][369]LogInit: FAudioDevice initialized.
+[2021.02.03-04.49.14:230][369]LogAudio: Display: Audio Device (ID: 13) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.49.14:236][369]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.49.14:251][369]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.49.14
+[2021.02.03-04.49.14:255][369]LogWorld: Bringing up level for play took: 0.017824
+[2021.02.03-04.49.14:255][369]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.02.03-04.49.14:261][369]PIE: Server logged in
+[2021.02.03-04.49.14:261][369]PIE: Play in editor total start time 0.133 seconds.
+[2021.02.03-04.49.20:569][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.49.20:569][100]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.49.20:570][100]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.49.20:575][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.49.20:582][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.49.20:597][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.49.20:605][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-04.49.20:605][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.49.20:606][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.49.20:621][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.49.20:626][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.03-04.49.20:665][101]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.02.03-04.49.22:734][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.49.23:456][323]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (BattleshipLabel)
+[2021.02.03-04.49.36:860][298]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.49.36:871][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.49.36:871][298]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:49:36 PM)
+[2021.02.03-04.49.36:871][298]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.49.36:931][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060225s)
+[2021.02.03-04.49.36:932][298]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.49.36:933][298]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2021.02.03-04.49.36:933][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.061761s)
+[2021.02.03-04.49.36:939][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.02.03-04.49.36:943][298]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.02.03-04.49.36:943][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.49.36:943][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.49.36:943][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.49.36:943][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.49.36:943][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.49.36:943][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.49.36:943][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.49.36:943][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.49.36:943][298]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.49.36:943][298]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.49.36:947][298]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.49.36:947][298]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.49.36:957][298]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.49.36:958][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.49.36:958][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.49.36:958][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.49.36:958][298]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.49.36:958][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.49.36:958][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.49.36:972][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.49.36:972][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.49.36:972][298]LogInit: FAudioDevice initialized.
+[2021.02.03-04.49.36:972][298]LogAudio: Display: Audio Device (ID: 14) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.49.36:983][298]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.49.36:997][298]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.49.36
+[2021.02.03-04.49.37:001][298]LogWorld: Bringing up level for play took: 0.017091
+[2021.02.03-04.49.37:001][298]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.02.03-04.49.37:007][298]PIE: Server logged in
+[2021.02.03-04.49.37:007][298]PIE: Play in editor total start time 0.137 seconds.
+[2021.02.03-04.49.40:560][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.49.40:561][701]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.49.40:561][701]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.49.40:566][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.49.40:575][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.49.40:585][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.49.40:590][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.49.40:594][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.49.40:595][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.49.40:614][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.02.03-04.49.40:652][702]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.02.03-04.49.46:476][116]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.49.46:488][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.49.46:488][116]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:49:46 PM)
+[2021.02.03-04.49.46:488][116]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.49.46:548][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060157s)
+[2021.02.03-04.49.46:549][116]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.49.46:550][116]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2021.02.03-04.49.46:550][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.061675s)
+[2021.02.03-04.49.46:556][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.02.03-04.49.46:558][116]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.02.03-04.49.46:558][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.49.46:559][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.49.46:559][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.49.46:559][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.49.46:559][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.49.46:559][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.49.46:559][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.49.46:559][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.49.46:559][116]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.49.46:559][116]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.49.46:563][116]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.49.46:563][116]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.49.46:574][116]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.49.46:574][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.49.46:574][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.49.46:574][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.49.46:574][116]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.49.46:574][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.49.46:574][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.49.46:587][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.49.46:587][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.49.46:587][116]LogInit: FAudioDevice initialized.
+[2021.02.03-04.49.46:587][116]LogAudio: Display: Audio Device (ID: 15) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.49.46:595][116]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.49.46:609][116]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.49.46
+[2021.02.03-04.49.46:613][116]LogWorld: Bringing up level for play took: 0.017852
+[2021.02.03-04.49.46:613][116]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.02.03-04.49.46:619][116]PIE: Server logged in
+[2021.02.03-04.49.46:620][116]PIE: Play in editor total start time 0.133 seconds.
+[2021.02.03-04.49.54:330][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.49.54:330][ 10]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.49.54:331][ 10]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.49.54:335][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.49.54:344][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.49.54:354][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.49.54:358][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.49.54:363][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.49.54:363][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.49.54:383][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.03-04.49.54:418][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.02.03-04.50.03:640][728]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.50.03:652][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.50.03:652][728]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:50:03 PM)
+[2021.02.03-04.50.03:652][728]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.50.03:713][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059960s)
+[2021.02.03-04.50.03:714][728]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.50.03:714][728]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2021.02.03-04.50.03:714][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.061435s)
+[2021.02.03-04.50.03:720][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.02.03-04.50.03:723][728]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.02.03-04.50.03:723][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.50.03:723][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.50.03:723][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.50.03:723][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.50.03:723][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.50.03:723][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.50.03:723][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.50.03:723][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.50.03:724][728]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.50.03:724][728]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.50.03:728][728]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.50.03:728][728]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.50.03:738][728]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.50.03:738][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.50.03:738][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.50.03:738][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.50.03:738][728]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.50.03:738][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.50.03:738][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.50.03:752][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.50.03:752][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.50.03:752][728]LogInit: FAudioDevice initialized.
+[2021.02.03-04.50.03:752][728]LogAudio: Display: Audio Device (ID: 16) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.50.03:757][728]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.50.03:772][728]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.50.03
+[2021.02.03-04.50.03:775][728]LogWorld: Bringing up level for play took: 0.017352
+[2021.02.03-04.50.03:775][728]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.02.03-04.50.03:781][728]PIE: Server logged in
+[2021.02.03-04.50.03:782][728]PIE: Play in editor total start time 0.13 seconds.
+[2021.02.03-04.51.42:084][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.51.42:084][288]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.51.42:085][288]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.51.42:089][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.51.42:095][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.51.42:106][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.51.42:111][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.51.42:114][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.51.42:115][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.51.42:134][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.03-04.51.42:175][289]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.02.03-04.51.55:137][332]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.51.55:149][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.51.55:149][332]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:51:55 PM)
+[2021.02.03-04.51.55:149][332]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.51.55:209][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059608s)
+[2021.02.03-04.51.55:210][332]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.51.55:210][332]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2021.02.03-04.51.55:210][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.061078s)
+[2021.02.03-04.51.55:216][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.02.03-04.51.55:219][332]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.02.03-04.51.55:220][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.51.55:220][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.51.55:220][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.51.55:220][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.51.55:220][332]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.51.55:220][332]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.51.55:220][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.51.55:220][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.51.55:220][332]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.51.55:220][332]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.51.55:224][332]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.51.55:224][332]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.51.55:234][332]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.51.55:235][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.51.55:235][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.51.55:235][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.51.55:235][332]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.51.55:235][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.51.55:235][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.51.55:248][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.51.55:248][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.51.55:248][332]LogInit: FAudioDevice initialized.
+[2021.02.03-04.51.55:248][332]LogAudio: Display: Audio Device (ID: 17) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.51.55:259][332]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.51.55:273][332]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.51.55
+[2021.02.03-04.51.55:277][332]LogWorld: Bringing up level for play took: 0.017091
+[2021.02.03-04.51.55:277][332]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.02.03-04.51.55:282][332]PIE: Server logged in
+[2021.02.03-04.51.55:283][332]PIE: Play in editor total start time 0.135 seconds.
+[2021.02.03-04.51.57:314][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.51.57:315][558]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.51.57:315][558]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.51.57:320][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.51.57:332][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.51.57:342][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.51.57:346][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.51.57:350][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.51.57:351][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.51.57:371][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.03-04.51.57:407][559]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.02.03-04.52.06:825][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.52.17:363][595]MapCheck: New page: Map Check
+[2021.02.03-04.52.17:379][595]Cmd: MAP REBUILD ALLVISIBLE
+[2021.02.03-04.52.17:379][595]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.02.03-04.52.17:490][595]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=false
+[2021.02.03-04.52.17:732][595]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.02.03-04.52.17:732][595]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.02.03-04.52.17:732][595]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.02.03-04.52.17:740][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.02.03-04.52.17:749][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:755][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:756][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:757][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:759][595]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.02.03-04.52.17:759][595]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.02.03-04.52.17:759][595]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.02.03-04.52.17:759][595]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.02.03-04.52.17:759][595]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.02.03-04.52.17:759][595]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.02.03-04.52.17:759][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:761][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:764][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:766][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:769][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:772][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:773][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:776][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:778][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:779][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:781][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:782][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:783][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:785][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.17:786][595]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.52.19:503][595]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 32
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 31
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 29
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 28
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 27
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 24
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 18
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 16
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2021.02.03-04.52.19:504][595]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.02.03-04.52.19:504][595]TextureStreamingBuild: Display: Compiling optional shaders took 1.760 seconds.
+[2021.02.03-04.52.19:594][595]LogLevel: Display: Export Material TexCoord Scales took 0.090 seconds.
+[2021.02.03-04.52.19:607][595]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2021.02.03-04.52.19:611][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.03-04.52.19:613][595]LightingResults: New page: Lighting Build - Feb 2, 2021, 4:52:19 PM
+[2021.02.03-04.52.19:697][595]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.03-04.52.19:843][595]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.03-04.52.19:862][595]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.03-04.52.20:372][595]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.03-04.52.20:372][595]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13236
+[2021.02.03-04.52.22:950][595]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.03-04.52.22:950][595]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.03-04.52.22:950][595]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.03-04.52.22:950][595]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.03-04.52.22:950][595]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.03-04.52.23:862][595]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.02.03-04.52.23:862][595]MapCheck: New page: Battleship_MainGameMap - Feb 2, 2021, 4:52:23 PM
+[2021.02.03-04.52.23:862][595]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.02.03-04.52.23:864][595]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.279ms to complete.
+[2021.02.03-04.52.23:866][595]LogEditorBuildUtils: Build time 0:06
+[2021.02.03-04.52.23:931][595]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lifeboat, compiling. 
+[2021.02.03-04.52.23:937][595]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lifeboat, compiling. 
+[2021.02.03-04.52.23:940][595]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.02.03-04.52.23:940][595]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.02.03-04.52.23:940][595]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.02.03-04.52.23:940][595]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.02.03-04.52.23:940][595]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sail_F, compiling. 
+[2021.02.03-04.52.23:942][595]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sail_F, compiling. 
+[2021.02.03-04.52.24:030][595]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.02.03-04.52.24:030][595]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.02.03-04.52.24:030][595]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.02.03-04.52.24:030][595]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.02.03-04.52.24:030][595]LogSlate: Took 0.009306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.03-04.52.24:035][596]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sail_E, compiling. 
+[2021.02.03-04.52.24:039][596]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.02.03-04.52.24:039][596]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.02.03-04.52.24:039][596]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sail_E, compiling. 
+[2021.02.03-04.52.24:043][596]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sail_C, compiling. 
+[2021.02.03-04.52.24:048][596]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sail_C, compiling. 
+[2021.02.03-04.52.24:060][596]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.02.03-04.52.24:060][596]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.02.03-04.52.24:167][597]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sail_H, compiling. 
+[2021.02.03-04.52.24:172][597]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sail_H, compiling. 
+[2021.02.03-04.52.24:270][598]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SS1, compiling. 
+[2021.02.03-04.52.24:274][598]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SS1, compiling. 
+[2021.02.03-04.52.24:280][598]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SS3, compiling. 
+[2021.02.03-04.52.24:284][598]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SS3, compiling. 
+[2021.02.03-04.52.24:371][598]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2021.02.03-04.52.24:371][598]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.02.03-04.52.25:265][599]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.02.03-04.52.25:878][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.02.03-04.52.28:933][738]LightingResults: Warning: SailingShip Object has overlapping UVs.
+[2021.02.03-04.52.28:933][738]LightingResults: SailingShip Lightmap UV are overlapping by 41.8%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.03-04.52.28:976][739]LightingResults: Warning: SailingShip Object has overlapping UVs.
+[2021.02.03-04.52.28:976][739]LightingResults: SailingShip Lightmap UV are overlapping by 41.8%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.03-04.52.28:976][739]LightingResults: Warning: SailingShip Object has overlapping UVs.
+[2021.02.03-04.52.28:976][739]LightingResults: SailingShip Lightmap UV are overlapping by 41.8%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.03-04.52.29:032][741]Job is a success!
+[2021.02.03-04.52.29:032][741]LogSlate: Window 'Message Log' being destroyed
+[2021.02.03-04.52.29:039][741]LogSlate: Window 'Message Log' being destroyed
+[2021.02.03-04.52.29:251][742]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2021.02.03-04.52.29:251][742]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.03-04.52.29:251][742]LogVolumetricLightmapImport:      BrickData (all levels) 0.5Mb
+[2021.02.03-04.52.29:251][742]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.03-04.52.29:251][742]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2021.02.03-04.52.29:251][742]LogVolumetricLightmapImport:          1: 8.2% covering 14.1% of volume
+[2021.02.03-04.52.29:251][742]LogVolumetricLightmapImport:          2: 90.9% covering 2.4% of volume
+[2021.02.03-04.52.29:251][742]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.03-04.52.29:251][742]LogVolumetricLightmapImport:          Battleship_MainGameMap 			 110 bricks 	 100.0% (Persistent Level)
+[2021.02.03-04.52.29:428][742]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2021.02.03-04.52.29:428][742]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.02.03-04.52.29:428][742]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.02.03-04.52.29:428][742]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2021.02.03-04.52.29:428][742]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2021.02.03-04.52.29:428][742]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2021.02.03-04.52.29:428][742]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 512X64)
+[2021.02.03-04.52.29:428][742]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2021.02.03-04.52.29:428][742]Lightmass on DESKTOP-U5VL9J3: 2.70 sec total, 335 ms importing, 114 ms setup, 761 ms photons, 1.46 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 21.9 sec total, 4.94 sec processing.
+[2021.02.03-04.52.29:467][742]LogStaticLightingSystem: Battleship_MainGameMap_BuiltData storing lightmap data for 7 meshes in 2 LightmapResourceClusters (3.5 Meshes per cluster).
+[2021.02.03-04.52.29:487][742]LogMaterial: Display: Material /Game/Game/Materials/-Sail_Master.-Sail_Master needed to have new flag set bUsedWithStaticLighting !
+[2021.02.03-04.52.29:515][742]LogMaterial: Display: Missing cached shader map for material -Sail_Master, compiling. 
+[2021.02.03-04.52.29:591][742]LogMaterial: Display: Missing cached shader map for material -Sail_Master, compiling. 
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.02.03-04.52.29:610][742]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.02.03-04.52.29:610][742]LogMaterial: Display: Missing cached shader map for material -Sail_Master, compiling. 
+[2021.02.03-04.52.29:630][742]LogMaterial: Display: Missing cached shader map for material -Sail_Master, compiling. 
+[2021.02.03-04.52.29:653][742]LogMaterial: Display: Material /Game/Game/Materials/-ORM_Master.-ORM_Master needed to have new flag set bUsedWithStaticLighting !
+[2021.02.03-04.52.29:655][742]LogMaterial: Display: Missing cached shader map for material -ORM_Master, compiling. 
+[2021.02.03-04.52.29:678][742]LogMaterial: Display: Missing cached shader map for material -ORM_Master, compiling. 
+[2021.02.03-04.52.29:702][742]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 168
+[2021.02.03-04.52.29:702][742]LogMaterial: Display: Missing cached shader map for material -ORM_Master, compiling. 
+[2021.02.03-04.52.29:732][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.02.03-04.52.29:785][742]LogStaticLightingSystem: Illumination: 10.1 sec (60 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2021.02.03-04.52.29:785][742]LogStaticLightingSystem: Lightmap texture memory:  0.8 MB (0.8 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.02.03-04.52.29:785][742]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 242
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 232
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 222
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 212
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 202
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 192
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 182
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 172
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 162
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 152
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 142
+[2021.02.03-04.52.34:960][742]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 132
+[2021.02.03-04.52.34:960][742]DumpUnbuiltLightIteractions
+[2021.02.03-04.52.34:960][742]Lights with unbuilt interactions: 0
+[2021.02.03-04.52.34:960][742]
+[2021.02.03-04.52.34:960][742]Primitives with unbuilt interactions: 0
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 122
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 112
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 102
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 93
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 85
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 77
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 70
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 64
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 58
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 53
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 48
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 35
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 32
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 29
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.02.03-04.52.40:925][742]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.02.03-04.52.41:096][742]LogTexture: Display: Building textures: NewReflectionComponentTexture27D11C704B61321E5B1208BCCF16EAE0 (BGRA8, 128X128)
+[2021.02.03-04.52.41:131][743]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.03-04.52.41:131][743]MapCheck: New page: Battleship_MainGameMap - Feb 2, 2021, 4:52:41 PM
+[2021.02.03-04.52.41:132][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.047ms to complete.
+[2021.02.03-04.52.57:913][378]LogSlate: Window 'Message Log' being destroyed
+[2021.02.03-04.52.57:917][378]LogSlate: Window 'Message Log' being destroyed
+[2021.02.03-04.53.05:051][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SailingShip3)
+[2021.02.03-04.53.18:325][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.53.19:995][149]MapCheck: New page: Map Check
+[2021.02.03-04.53.20:007][149]Cmd: MAP REBUILD ALLVISIBLE
+[2021.02.03-04.53.20:007][149]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.02.03-04.53.20:118][149]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=false
+[2021.02.03-04.53.20:356][149]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.02.03-04.53.20:356][149]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.02.03-04.53.20:356][149]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.02.03-04.53.20:364][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.02.03-04.53.20:366][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:367][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:369][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:370][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:372][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:374][149]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.02.03-04.53.20:374][149]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.02.03-04.53.20:374][149]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.02.03-04.53.20:374][149]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.02.03-04.53.20:374][149]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.02.03-04.53.20:374][149]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.02.03-04.53.20:374][149]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.02.03-04.53.20:374][149]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.02.03-04.53.20:374][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:376][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:379][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:382][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:384][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:386][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:389][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:390][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:391][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:393][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:394][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:396][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:397][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.20:399][149]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 29
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 28
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 27
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 22
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 16
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2021.02.03-04.53.22:223][149]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.02.03-04.53.22:223][149]TextureStreamingBuild: Display: Compiling optional shaders took 1.857 seconds.
+[2021.02.03-04.53.22:238][149]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2021.02.03-04.53.22:239][149]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.02.03-04.53.22:244][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.03-04.53.22:245][149]LightingResults: New page: Lighting Build - Feb 2, 2021, 4:53:22 PM
+[2021.02.03-04.53.22:249][149]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.03-04.53.22:255][149]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.03-04.53.22:255][149]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.03-04.53.22:256][149]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.03-04.53.22:256][149]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13236
+[2021.02.03-04.53.26:830][149]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.03-04.53.26:830][149]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.03-04.53.26:830][149]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.03-04.53.26:830][149]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.03-04.53.26:830][149]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.03-04.53.26:917][149]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.02.03-04.53.26:917][149]MapCheck: New page: Battleship_MainGameMap - Feb 2, 2021, 4:53:26 PM
+[2021.02.03-04.53.26:918][149]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.185ms to complete.
+[2021.02.03-04.53.26:919][149]LogEditorBuildUtils: Build time 0:06
+[2021.02.03-04.53.27:010][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.03-04.53.28:655][207]Job is a success!
+[2021.02.03-04.53.28:893][209]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2021.02.03-04.53.28:893][209]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.03-04.53.28:893][209]LogVolumetricLightmapImport:      BrickData (all levels) 0.5Mb
+[2021.02.03-04.53.28:893][209]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.03-04.53.28:893][209]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2021.02.03-04.53.28:893][209]LogVolumetricLightmapImport:          1: 8.2% covering 14.1% of volume
+[2021.02.03-04.53.28:893][209]LogVolumetricLightmapImport:          2: 90.9% covering 2.4% of volume
+[2021.02.03-04.53.28:893][209]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.03-04.53.28:893][209]LogVolumetricLightmapImport:          Battleship_MainGameMap 			 110 bricks 	 100.0% (Persistent Level)
+[2021.02.03-04.53.28:984][209]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2021.02.03-04.53.28:984][209]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.02.03-04.53.28:984][209]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.02.03-04.53.28:984][209]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X256)
+[2021.02.03-04.53.29:012][209]Lightmass on DESKTOP-U5VL9J3: 1.55 sec total, 120 ms importing, 16 ms setup, 166 ms photons, 1.21 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 18.2 sec total, 679 ms processing.
+[2021.02.03-04.53.29:039][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.03-04.53.29:141][209]LogStaticLightingSystem: Illumination: 6.76 sec (28 ms encoding lightmaps, 13 ms encoding shadowmaps)
+[2021.02.03-04.53.29:141][209]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.02.03-04.53.29:141][209]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.02.03-04.53.29:837][209]DumpUnbuiltLightIteractions
+[2021.02.03-04.53.29:837][209]Lights with unbuilt interactions: 0
+[2021.02.03-04.53.29:837][209]
+[2021.02.03-04.53.29:837][209]Primitives with unbuilt interactions: 0
+[2021.02.03-04.53.29:967][209]LogTexture: Display: Building textures: NewReflectionComponentTexture27D11C704B61321E5B1208BCCF16EAE0 (BGRA8, 128X128)
+[2021.02.03-04.53.29:997][210]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.03-04.53.29:997][210]MapCheck: New page: Battleship_MainGameMap - Feb 2, 2021, 4:53:29 PM
+[2021.02.03-04.53.29:998][210]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.031ms to complete.
+[2021.02.03-04.53.35:805][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.02.03-04.53.43:750][673]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.53.43:762][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.53.43:762][673]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:53:43 PM)
+[2021.02.03-04.53.43:763][673]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.53.43:823][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059954s)
+[2021.02.03-04.53.43:823][673]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.53.43:824][673]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2021.02.03-04.53.43:824][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.061233s)
+[2021.02.03-04.53.43:829][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.03-04.53.43:839][673]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.02.03-04.53.43:839][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.53.43:839][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.53.43:839][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.53.43:839][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.53.43:839][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.53.43:839][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.53.43:839][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.53.43:839][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.53.43:840][673]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.53.43:840][673]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.53.43:844][673]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.53.43:844][673]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.53.43:853][673]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.53.43:853][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.53.43:853][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.53.43:854][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.53.43:854][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.53.43:854][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.53.43:854][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.53.43:868][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.53.43:868][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.53.43:868][673]LogInit: FAudioDevice initialized.
+[2021.02.03-04.53.43:868][673]LogAudio: Display: Audio Device (ID: 18) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.53.43:874][673]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.53.43:888][673]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.53.43
+[2021.02.03-04.53.43:892][673]LogWorld: Bringing up level for play took: 0.017284
+[2021.02.03-04.53.43:892][673]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.02.03-04.53.43:898][673]PIE: Server logged in
+[2021.02.03-04.53.43:898][673]PIE: Play in editor total start time 0.137 seconds.
+[2021.02.03-04.53.56:418][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.53.56:418][165]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.53.56:419][165]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.53.56:423][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.53.56:430][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.53.56:445][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.53.56:449][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.53.56:450][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.53.56:451][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.53.56:474][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.03-04.53.56:513][166]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.02.03-04.54.23:051][723]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-04.54.23:066][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-04.54.23:066][723]PIE: New page: PIE session: Battleship_MainGameMap (Feb 2, 2021, 4:54:23 PM)
+[2021.02.03-04.54.23:066][723]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.54.23:127][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061205s)
+[2021.02.03-04.54.23:128][723]LogAIModule: Creating AISystem for world Battleship_MainGameMap
+[2021.02.03-04.54.23:129][723]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2021.02.03-04.54.23:129][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap to /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap (0.062889s)
+[2021.02.03-04.54.23:135][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.02.03-04.54.23:138][723]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.02.03-04.54.23:138][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-04.54.23:138][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-04.54.23:138][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-04.54.23:138][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-04.54.23:138][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-04.54.23:138][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-04.54.23:138][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-04.54.23:138][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-04.54.23:139][723]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-04.54.23:139][723]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-04.54.23:143][723]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-04.54.23:143][723]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-04.54.23:153][723]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2021.02.03-04.54.23:153][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-04.54.23:153][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-04.54.23:153][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-04.54.23:154][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-04.54.23:154][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-04.54.23:154][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-04.54.23:168][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-04.54.23:168][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-04.54.23:168][723]LogInit: FAudioDevice initialized.
+[2021.02.03-04.54.23:168][723]LogAudio: Display: Audio Device (ID: 19) registered with world 'Battleship_MainGameMap'.
+[2021.02.03-04.54.23:176][723]LogLoad: Game class is 'BattleshipGameMode_C'
+[2021.02.03-04.54.23:189][723]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap.Battleship_MainGameMap up for play (max tick rate 0) at 2021.02.02-22.54.23
+[2021.02.03-04.54.23:193][723]LogWorld: Bringing up level for play took: 0.017253
+[2021.02.03-04.54.23:193][723]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.02.03-04.54.23:198][723]PIE: Server logged in
+[2021.02.03-04.54.23:199][723]PIE: Play in editor total start time 0.135 seconds.
+[2021.02.03-04.54.24:299][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.54.24:299][766]LogWorld: BeginTearingDown for /Game/Game/Level/UEDPIE_0_Battleship_MainGameMap
+[2021.02.03-04.54.24:300][766]LogWorld: UWorld::CleanupWorld for Battleship_MainGameMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-04.54.24:305][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.54.24:314][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-04.54.24:329][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-04.54.24:333][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-04.54.24:337][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.54.24:338][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-04.54.24:358][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.02.03-04.54.24:399][767]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.02.03-04.54.34:102][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.02.03-04.54.34:287][ 96]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Battleship_MainGameMap16A172084CF38A4707341B83BEECDBDE.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap.umap'
+[2021.02.03-04.54.34:372][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/Battleship_MainGameMap_BuiltData" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap_BuiltData.uasset" SILENT=true
+[2021.02.03-04.54.34:386][ 96]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Battleship_MainGameMap_BuiltData05E19808422DD5890900EC8ADB6BE552.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap_BuiltData.uasset'
+[2021.02.03-04.54.34:486][ 96]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.02.03-04.54.34:486][ 96]SourceControl: Error: BattleShip/Content/Game/Level/Battleship_MainGameMap_BuiltData.uasset
+[2021.02.03-04.54.34:486][ 96]SourceControl: Error: hint: Use -f if you really want to add them.
+[2021.02.03-04.54.34:486][ 96]SourceControl: Error: hint: Turn this message off by running
+[2021.02.03-04.54.34:486][ 96]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2021.02.03-04.54.34:494][ 96]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-04.54.34:494][ 96]LogContentValidation: Display: Validating World /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap
+[2021.02.03-04.54.34:494][ 96]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Game/Level/Battleship_MainGameMap_BuiltData.Battleship_MainGameMap_BuiltData
+[2021.02.03-04.54.46:068][490]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.02.03-04.54.46:094][491]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.02.03-04.54.46:094][491]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.02.03-04.54.46:206][491]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.02.03-04.54.46:208][491]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.02.03-04.54.46:208][491]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.02.03-04.54.46:369][492]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2021.02.03-04.54.46:371][492]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.02.03-04.54.46:371][492]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.02.03-04.54.49:496][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.02.03-04.54.52:341][573]LogSlate: Window 'Save Content' being destroyed
+[2021.02.03-04.54.52:452][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/-ORM_Master" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/-ORM_Master.uasset" SILENT=true
+[2021.02.03-04.54.52:466][573]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/-ORM_MasterADE9D8484C85785A7115908EC6501678.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/-ORM_Master.uasset'
+[2021.02.03-04.54.52:474][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/-Sail_Master" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/-Sail_Master.uasset" SILENT=true
+[2021.02.03-04.54.52:491][573]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/-Sail_Master0AD56FE3478CACA6123443B0AEE25619.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/-Sail_Master.uasset'
+[2021.02.03-04.54.52:500][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/Sail_F" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/Sail_F.uasset" SILENT=true
+[2021.02.03-04.54.52:510][573]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Sail_F372066A1477D61AE6B913F8A481DE495.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/Sail_F.uasset'
+[2021.02.03-04.54.52:518][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/SS1" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/SS1.uasset" SILENT=true
+[2021.02.03-04.54.52:530][573]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/SS18533799E4E96E33175AB4592AE9EAF28.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/SS1.uasset'
+[2021.02.03-04.54.52:541][573]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-04.54.52:541][573]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game/Materials/SS1.SS1
+[2021.02.03-04.54.52:541][573]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game/Materials/Sail_F.Sail_F
+[2021.02.03-04.54.52:541][573]LogContentValidation: Display: Validating Material /Game/Game/Materials/-Sail_Master.-Sail_Master
+[2021.02.03-04.54.52:541][573]LogContentValidation: Display: Validating Material /Game/Game/Materials/-ORM_Master.-ORM_Master
+[2021.02.03-04.55.18:053][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.02.03-04.55.18:237][382]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Battleship_MainGameMap19905D6F4635EA816BDCA5AF2D781FF2.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap.umap'
+[2021.02.03-04.55.18:311][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/Battleship_MainGameMap_BuiltData" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap_BuiltData.uasset" SILENT=true
+[2021.02.03-04.55.18:325][382]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Battleship_MainGameMap_BuiltDataA70897534C888FC66BD05E979086B0DB.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap_BuiltData.uasset'
+[2021.02.03-04.55.18:331][382]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-04.55.18:331][382]LogContentValidation: Display: Validating World /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap
+[2021.02.03-04.55.18:331][382]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Game/Level/Battleship_MainGameMap_BuiltData.Battleship_MainGameMap_BuiltData
+[2021.02.03-04.55.21:087][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:212][911]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/UE4/Project1/EECS448_Project1'
+[2021.02.03-04.55.26:470][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.02.03-04.55.26:655][911]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Battleship_MainGameMapDAF72299415ABC78F056EEB34886ED61.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap.umap'
+[2021.02.03-04.55.26:669][911]LogFileHelpers: Saving map 'Battleship_MainGameMap' took 0.203
+[2021.02.03-04.55.26:669][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/-ORM_Master" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/-ORM_Master.uasset" SILENT=true
+[2021.02.03-04.55.26:678][911]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/-ORM_MasterF25190A84BA4F52D120CC4BADDD91BCD.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/-ORM_Master.uasset'
+[2021.02.03-04.55.26:679][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/-Sail_Master" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/-Sail_Master.uasset" SILENT=true
+[2021.02.03-04.55.26:690][911]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/-Sail_MasterAF7FB99F4183BA0D94B0929567F7DA0E.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/-Sail_Master.uasset'
+[2021.02.03-04.55.26:690][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/Sail_F" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/Sail_F.uasset" SILENT=true
+[2021.02.03-04.55.26:695][911]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Sail_F5121EFCE46D4E9D1060031B270AA7429.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/Sail_F.uasset'
+[2021.02.03-04.55.26:695][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/SS1" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/SS1.uasset" SILENT=true
+[2021.02.03-04.55.26:703][911]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/SS1093D0ED744616B37D4D3E4B9AE1535D5.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Materials/SS1.uasset'
+[2021.02.03-04.55.45:411][911]LogSlate: Window 'Submit Files' being destroyed
+[2021.02.03-04.55.46:758][911]LogSourceControl: commit successful: [main 8706a91] Special Effect Placement
+[2021.02.03-04.55.46:824][911]SourceControl: [main 8706a91] Special Effect Placement
+[2021.02.03-04.55.46:824][911]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2021.02.03-04.55.46:824][911]SourceControl:  rewrite BattleShip/Content/Game/Materials/-ORM_Master.uasset (93%)
+[2021.02.03-04.55.46:824][911]SourceControl:  rewrite BattleShip/Content/Game/Materials/-Sail_Master.uasset (92%)
+[2021.02.03-04.55.46:824][911]SourceControl:  rewrite BattleShip/Content/Game/Materials/SS1.uasset (97%)
+[2021.02.03-04.55.46:824][911]SourceControl:  rewrite BattleShip/Content/Game/Materials/Sail_F.uasset (97%)
+[2021.02.03-04.55.46:832][911]SourceControl: Commited [main 8706a91] Special Effect Placement.
+[2021.02.03-04.55.46:870][912]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-04.55.46:870][912]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game/Materials/SS1.SS1
+[2021.02.03-04.55.46:870][912]LogContentValidation: Display: Validating World /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap
+[2021.02.03-04.55.46:870][912]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game/Materials/Sail_F.Sail_F
+[2021.02.03-04.55.46:870][912]LogContentValidation: Display: Validating Material /Game/Game/Materials/-Sail_Master.-Sail_Master
+[2021.02.03-04.55.46:870][912]LogContentValidation: Display: Validating Material /Game/Game/Materials/-ORM_Master.-ORM_Master
