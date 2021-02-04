@@ -1973,3 +1973,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.04-03.44.21:106][731]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/BattleshipBlock.BattleshipBlock
 [2021.02.04-03.44.21:106][731]LogContentValidation: Display: Validating World /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap
 [2021.02.04-03.44.21:106][731]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Battleship_Ship.Battleship_Ship
+[2021.02.04-03.49.22:893][690]LogEditorViewport: Clicking on Actor (LMB): Battleship_Ship_C (Battleship_Ship)
+[2021.02.04-03.49.29:788][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.02.04-03.49.29:973][799]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Battleship_MainGameMapD74061CE45029F5DE98E0D8084DFBFDB.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap.umap'
+[2021.02.04-03.49.30:053][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/Battleship_MainGameMap_BuiltData" FILE="D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap_BuiltData.uasset" SILENT=true
+[2021.02.04-03.49.30:067][799]LogSavePackage: Moving 'D:/UE4/Project1/EECS448_Project1/BattleShip/Saved/Battleship_MainGameMap_BuiltData83ECCFF24B1E781CB561B082C52B7876.tmp' to 'D:/UE4/Project1/EECS448_Project1/BattleShip/Content/Game/Level/Battleship_MainGameMap_BuiltData.uasset'
+[2021.02.04-03.49.30:076][799]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.04-03.49.30:076][799]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Game/Level/Battleship_MainGameMap_BuiltData.Battleship_MainGameMap_BuiltData
+[2021.02.04-03.49.30:076][799]LogContentValidation: Display: Validating World /Game/Game/Level/Battleship_MainGameMap.Battleship_MainGameMap
