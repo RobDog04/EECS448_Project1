@@ -1,4 +1,4 @@
-BattleShip/Binaries/Win64/BattleShip-Win64-Shipping.exe	2021-02-17T00:00:07.052Z
+BattleShip/Binaries/Win64/BattleShip-Win64-Shipping.exe	2021-02-19T03:35:18.289Z
 BattleShip/Binaries/Win64/turbojpeg.dll	2021-02-09T20:13:20.153Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-02-02T01:12:45.389Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2021-02-09T20:02:11.947Z
@@ -43,4 +43,4 @@ BattleShip/Config/SteamVRBindings/vive_tracker_right_foot.json	2021-02-04T04:18:
 BattleShip/Config/SteamVRBindings/vive_tracker_right_knee.json	2021-02-04T04:18:00.667Z
 BattleShip/Config/SteamVRBindings/vive_tracker_right_shoulder.json	2021-02-04T04:18:00.661Z
 BattleShip/Config/SteamVRBindings/vive_tracker_waist.json	2021-02-04T04:18:00.659Z
-BattleShip.exe	2021-02-17T01:10:21.446Z
+BattleShip.exe	2021-02-19T03:40:10.212Z
