@@ -1,7 +1,5 @@
 # Battleship (EECS 448 - Project 1)
 
-<img src="https://www.ultraboardgames.com/battleship/gfx/logo.jpg" width="250" height=auto>
-
 ## Table of Contents
 * [Description](#description)
 * [Technologies](#technologies)
@@ -23,4 +21,7 @@ git clone https://github.com/Ultima-weapon/EECS448_Project1.git
 ```
 
 ## Documentation
-* <p><a href="https://docs.google.com/document/d/1CRUyi2SdsGBPf_lryfwnYkiKA9rfEXTEfPLGBnSXWJI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Project Time Estimate</a></p>
+Documentation directory in root includes:
+* Project Planning and Hour Estimate
+* Timesheet
+* Works Cited
