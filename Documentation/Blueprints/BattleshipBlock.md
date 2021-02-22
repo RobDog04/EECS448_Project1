@@ -1,0 +1,113 @@
+# BattleshipBlock
+## Handle block being clicked 
+- Name:  EdGraphNode_Comment_8 
+- Class:  /Script/UnrealEd.EdGraphNode_Comment 
+- Members: 
+  - Events
+    - EVENT ComponentOnClickedSignature__DelegateSignature
+    - EVENT ReceiveActorOnInputTouchBegin
+  - Function Calls
+    - Call:SetMaterial                  Name: K2Node_CallFunction_9        Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:GetPlayerController          Name: K2Node_CallFunction_4        Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:AttackBlock                  Name: K2Node_CallFunction_5        Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:Activate                     Name: K2Node_CallFunction_10       Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:Delay                        Name: K2Node_CallFunction_6        Class:/Script/BlueprintGraph.K2Node_CallFunction
+  - Others
+    - Name: K2Node_VariableGet_727       Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_IfThenElse_225        Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_VariableSet_690       Class:/Script/BlueprintGraph.K2Node_VariableSet
+    - Name: K2Node_VariableGet_3         Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_CustomEvent_0         Class:/Script/BlueprintGraph.K2Node_CustomEvent
+    - Name: K2Node_VariableSet_1         Class:/Script/BlueprintGraph.K2Node_VariableSet
+    - Name: K2Node_DynamicCast_0         Class:/Script/BlueprintGraph.K2Node_DynamicCast
+    - Name: K2Node_VariableGet_0         Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableGet_1         Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableSet_4         Class:/Script/BlueprintGraph.K2Node_VariableSet
+    - Name: K2Node_VariableSet_5         Class:/Script/BlueprintGraph.K2Node_VariableSet
+    - Name: K2Node_VariableSet_2         Class:/Script/BlueprintGraph.K2Node_VariableSet
+    - Name: K2Node_VariableSet_3         Class:/Script/BlueprintGraph.K2Node_VariableSet
+
+## VR - Handles changing color of the tile player is looking at. 
+- Name:  EdGraphNode_Comment_3 
+- Class:  /Script/UnrealEd.EdGraphNode_Comment 
+- Members: 
+  - Events
+  - Function Calls
+    - Call:SetMaterial                  Name: K2Node_CallFunction_56       Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:SetMaterial                  Name: K2Node_CallFunction_57       Class:/Script/BlueprintGraph.K2Node_CallFunction
+  - Others
+    - Name: K2Node_IfThenElse_30         Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_VariableGet_54        Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_IfThenElse_31         Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_VariableGet_55        Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableGet_56        Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableSet_0         Class:/Script/BlueprintGraph.K2Node_VariableSet
+    - Name: K2Node_CustomEvent_1         Class:/Script/BlueprintGraph.K2Node_CustomEvent
+    - Name: K2Node_IfThenElse_7          Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_IfThenElse_12         Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_VariableGet_81        Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableGet_82        Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableGet_80        Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableSet_69        Class:/Script/BlueprintGraph.K2Node_VariableSet
+
+## Inactive blocks turn white when hovered by mouse and back to blue if the mouse isn\'t hovering. 
+- Name:  EdGraphNode_Comment_1 
+- Class:  /Script/UnrealEd.EdGraphNode_Comment 
+- Members: 
+  - Events
+    - EVENT ComponentBeginCursorOverSignature__DelegateSignature
+    - EVENT ComponentEndCursorOverSignature__DelegateSignature
+  - Function Calls
+    - Call:SetMaterial                  Name: K2Node_CallFunction_137      Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:SetMaterial                  Name: K2Node_CallFunction_37       Class:/Script/BlueprintGraph.K2Node_CallFunction
+  - Others
+    - Name: K2Node_IfThenElse_81         Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_VariableGet_141       Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_IfThenElse_82         Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_VariableGet_142       Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableGet_143       Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableSet_47        Class:/Script/BlueprintGraph.K2Node_VariableSet
+    - Name: K2Node_IfThenElse_20         Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_VariableGet_36        Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_IfThenElse_21         Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_VariableGet_37        Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableGet_38        Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableSet_12        Class:/Script/BlueprintGraph.K2Node_VariableSet
+
+## Handle Incoming Attack 
+- Name:  EdGraphNode_Comment_9 
+- Class:  /Script/UnrealEd.EdGraphNode_Comment 
+- Members: 
+  - Events
+  - Function Calls
+    - Call:SetMaterial                  Name: K2Node_CallFunction_25925    Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:Activate                     Name: K2Node_CallFunction_12       Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:Activate                     Name: K2Node_CallFunction_11       Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:GetPlayerController          Name: K2Node_CallFunction_13       Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:SendShipHit                  Name: K2Node_CallFunction_14       Class:/Script/BlueprintGraph.K2Node_CallFunction
+  - Others
+    - Name: K2Node_CustomEvent_2         Class:/Script/BlueprintGraph.K2Node_CustomEvent
+    - Name: K2Node_VariableGet_729       Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableSet_18        Class:/Script/BlueprintGraph.K2Node_VariableSet
+    - Name: K2Node_VariableGet_4         Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_VariableGet_5         Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_IfThenElse_2          Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_VariableGet_6         Class:/Script/BlueprintGraph.K2Node_VariableGet
+    - Name: K2Node_DynamicCast_1         Class:/Script/BlueprintGraph.K2Node_DynamicCast
+
+## Handle Ship Overlaps 
+- Name:  EdGraphNode_Comment_2 
+- Class:  /Script/UnrealEd.EdGraphNode_Comment 
+- Members: 
+  - Events
+    - EVENT ComponentBeginOverlapSignature__DelegateSignature
+    - EVENT ComponentEndOverlapSignature__DelegateSignature
+  - Function Calls
+    - Call:GetObjectClass               Name: K2Node_CallFunction_1        Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:GetObjectClass               Name: K2Node_CallFunction_0        Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:EqualEqual_ClassClass        Name: K2Node_CallFunction_3        Class:/Script/BlueprintGraph.K2Node_CallFunction
+    - Call:EqualEqual_ClassClass        Name: K2Node_CallFunction_2        Class:/Script/BlueprintGraph.K2Node_CallFunction
+  - Others
+    - Name: K2Node_IfThenElse_0          Class:/Script/BlueprintGraph.K2Node_IfThenElse
+    - Name: K2Node_IfThenElse_1          Class:/Script/BlueprintGraph.K2Node_IfThenElse
+
